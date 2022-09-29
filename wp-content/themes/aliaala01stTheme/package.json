@@ -1,0 +1,14 @@
+{
+  "name": "aliaala01sttheme",
+  "version": "1.0.0",
+  "description": "Alia ala course practice theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashraf",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
