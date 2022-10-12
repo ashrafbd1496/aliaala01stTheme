@@ -1,0 +1,32 @@
+{
+  "name": "aliaala01sttheme",
+  "version": "1.0.0",
+  "description": "Aliaala WordPress theme development course practice theme",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashraf",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "@babel/register": "^7.18.9",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.2.5",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.55.0",
+    "webpack": "^5.74.0",
+    "yargs": "^17.6.0"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-require": "^1.0.1",
+    "gulp": "^4.0.2"
+  }
+}
