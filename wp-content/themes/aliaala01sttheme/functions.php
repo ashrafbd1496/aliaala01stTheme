@@ -8,6 +8,9 @@
 // Exit if accessed directly.
 defined( 'ABSPATH' ) || exit;
 
+require_once('lib/helpers.php');
+require_once('lib/enqueue-assets.php');
+
 // aliaala01sttheme's includes directory.
 $aliaala01sttheme_inc_dir = 'inc';
 
