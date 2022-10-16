@@ -20,6 +20,7 @@
     "babel-loader": "^8.2.5",
     "gulp-clean-css": "^4.3.0",
     "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^3.0.0",
     "sass": "^1.55.0",
